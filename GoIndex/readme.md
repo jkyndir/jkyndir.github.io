@@ -6,5 +6,5 @@ Hosting the necessary theme javacript for Goindex on my github page
 ```
 This file can be found in the theme folder of any copy of [goindex](https://github.com/iiiiiii1/goindex/tree/master/themes)
 
-app.js is the original version. \
-my_app.js is a verstion that is modified by me, with Chinese text changed to English.
+[app.js](themes/material/app.js) is the original version. \
+[my_app.js](themes/material/my_app.js)  is a verstion that is modified by me, with Chinese text changed to English.
