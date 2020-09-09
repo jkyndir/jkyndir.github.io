@@ -1,0 +1,57 @@
+body{
+    background-color: #323334;
+    color: #bab7b2;
+    padding: 5% 20%;
+}
+h1{
+    text-align: center;
+    font-size:45px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    overflow-wrap: break-word;
+    /* use pre-line so that there would be no need to open a p tag for a different paragraph */
+    white-space: pre-line;
+    margin: 1.286em auto;
+    padding: 0;
+    line-height: 1.5;
+    font-size: 20px;
+}
+a:link {
+    color: #6ca5db;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #7e75df;.
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+
+/* Set basic styles for all the buttons */
+button {
+    border: 3px solid #6ca5db;
+    border-radius: 5px;
+    background-color: #323334;
+    color: #6ca5db;
+    padding: 16px;
+    font-size: 20px;
+    outline: none; /* Set outline property to "none" to get rid of the thin white outline around the button when clicked. */
+    cursor: pointer; /* Add a mouse pointer on hover */
+}
+
+button:hover {
+    background-color: #494a50;
+}
